@@ -2,7 +2,7 @@ from pymongo import MongoClient
 
 class archivosMongoDB:
     def __init__(self, collection_name):
-        self.client = MongoClient('mongodb://localhost:27017/')  # Update with your MongoDB connection string
+        self.client = MongoClient('')  # Update with your MongoDB connection string
         self.db = self.client["SportLine"]
         self.collection = self.db[collection_name]
 
