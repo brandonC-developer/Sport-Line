@@ -1,0 +1,12 @@
+<usuarios>
+    <usuario id="305060325">
+        <user>brand</user>
+        <clave>root</clave>
+        <tipo>ADM</tipo>
+    </usuario>
+    <usuario id="3232453456">
+        <user>Carlo</user>
+        <clave>1234</clave>
+        <tipo>VENDEDOR</tipo>
+    </usuario>
+    </usuarios>

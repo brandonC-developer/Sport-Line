@@ -1,0 +1,7 @@
+<ordenes>
+    <orden id_orden="9826">
+        <codigoProveedor>L_203</codigoProveedor>
+        <fecha>5/21/21</fecha>
+        <aplicada>Terminada</aplicada>
+    </orden>
+<orden id_orden="#7707"><codigoProveedor>C_104 - Canes koter</codigoProveedor><fecha>8/13/24</fecha><aplicada>Terminada</aplicada></orden><orden id_orden="#3054"><codigoProveedor>G_304 - Gorras Sport</codigoProveedor><fecha>8/22/24</fecha><aplicada>Pendiente</aplicada></orden></ordenes>

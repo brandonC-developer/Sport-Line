@@ -1,0 +1,7 @@
+<detalleOrdenes>
+    <detalle id_orden="9826">
+        <codigoProducto>CAL_123</codigoProducto>
+        <costo>20000</costo>
+        <cantidad>20</cantidad>
+    </detalle>
+<detalle id_orden="#7707"><codigoProducto>MV_536</codigoProducto><costo>845624</costo><cantidad>54</cantidad></detalle><detalle id_orden="#3054"><codigoProducto>G_301</codigoProducto><costo>47800</costo><cantidad>25</cantidad></detalle></detalleOrdenes>

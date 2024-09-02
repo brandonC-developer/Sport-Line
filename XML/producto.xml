@@ -1,0 +1,10 @@
+<productos>
+    <producto id_producto='CAL_123'>
+        <precio>7500</precio>
+        <inventario>6</inventario>
+    </producto>
+    <producto id_producto='PAN_431'>
+        <precio>14700</precio>
+        <inventario>22</inventario>
+    </producto>
+</productos>
